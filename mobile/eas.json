@@ -18,12 +18,15 @@
       }
     },
     "production": {
+      "node": "20.19.4",
       "android": {
         "buildType": "app-bundle"
       },
       "env": {
         "EXPO_PUBLIC_API_URL": "https://hoflayn.app",
-        "EXPO_PUBLIC_ENABLE_EXTERNAL_BILLING": "false"
+        "EXPO_PUBLIC_ENABLE_EXTERNAL_BILLING": "false",
+        "EAS_BUILD_NO_EXPO_GO_WARNING": "true",
+        "NPM_CONFIG_LEGACY_PEER_DEPS": "true"
       }
     }
   },

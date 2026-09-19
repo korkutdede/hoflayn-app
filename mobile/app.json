@@ -26,7 +26,8 @@
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       },
       "permissions": [
-        "android.permission.READ_MEDIA_IMAGES"
+        "android.permission.READ_MEDIA_IMAGES",
+        "android.permission.RECORD_AUDIO"
       ],
       "predictiveBackGestureEnabled": false
     },
@@ -60,7 +61,12 @@
       "privacy": "https://hoflayn.app/privacy",
       "terms": "https://hoflayn.app/terms",
       "accountDeletion": "https://hoflayn.app/account-delete",
-      "marketplace": "https://hoflayn.com"
-    }
+      "marketplace": "https://hoflayn.com",
+      "router": {},
+      "eas": {
+        "projectId": "e2d37803-a216-450b-8034-21deab6e45fa"
+      }
+    },
+    "owner": "hoflayn.app"
   }
 }

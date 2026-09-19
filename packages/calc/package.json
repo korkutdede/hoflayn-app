@@ -9,6 +9,6 @@
     ".": "./src/index.ts"
   },
   "dependencies": {
-    "@hoflayn/i18n": "*"
+    "@hoflayn/i18n": "file:../i18n"
   }
 }
