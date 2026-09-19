@@ -56,8 +56,9 @@ async function candidates(raw: string): Promise<Candidate[]> {
           summary: `${directHost}:5432 direct (ipv6)`,
           options: {
             ...baseOptions(direct, directHost),
-            host: [ipv6[0]],
-            port: [5432],
+            // Bracket the literal so postgres.js does not split IPv6 on ":".
+            host: `[${ipv6[0]}]`,
+            port: 5432,
           },
         });
       }
