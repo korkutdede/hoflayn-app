@@ -1,0 +1,66 @@
+Play Console'a yapıştırılacak metinler. Paket adı: app.hoflayn.mobile
+
+App name
+Hoflayn
+
+Short description (80)
+El yapımı atölyeler için AI çalışma masası: ürün fotoğrafı, açıklama ve katalog.
+
+Full description
+Hoflayn, seramik, mum, ahşap, epoksi ve tekstil üreticileri için AI destekli çalışma masasıdır. Bu uygulama hoflayn.com pazaryeri vitrini değildir; atölye fotoğrafı, açıklama, stok ve katalog işleri içindir. Pazaryerinde satıcı olanlar aynı e-posta ile ürün aktarabilir.
+
+Uygulama ile:
+• Ürün fotoğraflarını stüdyoda temizle ve beyaz fonda hazırla
+• Ürün kartı, stok ve satış kaydı tut
+• AI ile ürün açıklaması, Instagram metni ve SEO yardımı al
+• Katalog PDF ve etiket üret
+• Desi ve kâr hesapla
+
+Kayıt ücretsizdir. AI işlemleri kredi ile çalışır. Bu Android sürümünde uygulama içi ödeme yoktur; faturalandırma web üzerinden yapılır.
+
+Gizlilik: https://hoflayn.app/privacy
+Kullanım şartları: https://hoflayn.app/terms
+Hesap silme: https://hoflayn.app/account-delete
+Destek: destek@hoflayn.app
+
+Category
+Business (or Productivity)
+
+Contact email
+destek@hoflayn.app
+
+Privacy policy
+https://hoflayn.app/privacy
+
+Account deletion
+https://hoflayn.app/account-delete
+In-app: Hesap → Hesabı sil
+
+Content rating
+IARC questionnaire: business tool, no user-generated public social feed, no ads, not directed at children. Target age 18+.
+
+Ads
+No
+
+News app
+No
+
+Data safety (declare collected, not sold)
+• Email (account) — App functionality, Account management
+• Name (account) — App functionality
+• Photos (user-uploaded product images) — App functionality
+• Other in-app content (workshop, products, sales) — App functionality
+Collected: yes. Shared with third parties: no (except infrastructure: Supabase hosting).
+Encrypted in transit: yes.
+Users can request deletion: yes.
+Data is not sold.
+No analytics SDK, no advertising ID.
+Financial info: not collected in this Play build (EXPO_PUBLIC_ENABLE_EXTERNAL_BILLING=false).
+
+Permissions
+Photos / media (product images only). No camera, no location, no contacts.
+
+Graphics
+• High-res icon: mobile/store/android/icon-512.png (512×512)
+• Feature graphic: mobile/store/android/feature-graphic.png (1024×500)
+• Phone screenshots: take from the signed APK/AAB on a device (Play does not accept website shots)
